@@ -6,9 +6,9 @@ public class Main
 	    
 	    //Getting input from the user 
 	    
-	    System.out.print("Enter the Number:");
+	    System.out.print("Enter the Number:");    //positive, negative, zero
 	    int num=sc.nextInt();
-	    System.out.print("Enter a number from 1 to 7 to display the weak:");
+	    System.out.print("Enter a number from 1 to 7 to display the day of the week:");
 	    int week=sc.nextInt();
 	    System.out.print("Enter a number to print a range:");
 	    int tennum=sc.nextInt();
